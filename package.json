@@ -4,8 +4,8 @@
   "author": "Chu Zhu <mystery490815101@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "run": "echo yay",
-    "update": "echo yay1"
+    "start": "scripts/start.sh",
+    "update": "scripts/update.sh"
   },
   "dependencies": {
     "yargs": "^14.2.0"

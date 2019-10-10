@@ -1,1 +1,3 @@
-`docker run --name proxy-balancer -p 1081:1081 -p 1081:1081/udp -p 80:80 -v /home/chu/nginx/nginx.conf:/etc/nginx/nginx.conf:ro -v /home/chu/nginx/upstream.conf:/etc/nginx/upstream.conf:ro -d nginx`
+# Nord-Proxy-Balancer
+
+NordProxyBalancer is created for aggregating multiple available [NordVPN](https://nordvpn.com) servers into one, with load balancing feature, currently supports http proxy and P2P socks5 proxy.

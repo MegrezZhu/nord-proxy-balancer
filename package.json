@@ -1,0 +1,13 @@
+{
+  "name": "proxy-balancer",
+  "version": "1.0.0",
+  "author": "Chu Zhu <mystery490815101@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "echo yay",
+    "update": "echo yay1"
+  },
+  "dependencies": {
+    "yargs": "^14.2.0"
+  }
+}

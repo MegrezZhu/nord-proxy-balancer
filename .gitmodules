@@ -1,0 +1,3 @@
+[submodule "nordapi"]
+	path = nordapi
+	url = https://bitbucket.org/nordial/nordapi.git
